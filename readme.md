@@ -5,3 +5,5 @@ This is Proof-of-Concept project, created to show two things:
 <br><br>Following technologies and frameworks are used: Docker, Java 8 and Java 11, Mongo, MySQL, Python, Spark (PySpark), Pandas and Scikit-learn.
 <br>Tested on Ubuntu 18.04 LTS, 20.04 LTS
 <br>run.sh should be executed with root privileges
+
+YouTube video: https://youtu.be/aECsmTd0QjY
